@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [3794-reverse-string-prefix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
