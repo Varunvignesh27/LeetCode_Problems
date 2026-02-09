@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
