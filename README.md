@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3379-transformed-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3379-transformed-array) |
 ## Two Pointers
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0182-duplicate-emails) |
+## Sorting
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
+## Matrix
+|  |
+| ------- |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 <!---LeetCode Topics End-->
