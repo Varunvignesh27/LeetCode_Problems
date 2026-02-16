@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3379-transformed-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3379-transformed-array) |
 ## Two Pointers
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 ## Simulation
