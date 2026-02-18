@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3379-transformed-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3379-transformed-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
 |  |
 | ------- |
