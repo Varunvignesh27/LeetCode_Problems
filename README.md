@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [1009-complement-of-base-10-integer](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1009-complement-of-base-10-integer) |
 ## Sliding Window
 |  |
 | ------- |
