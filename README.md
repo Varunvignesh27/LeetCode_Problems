@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Bit Manipulation
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0307-range-sum-query-mutable) |
+| [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
 ## Binary Indexed Tree
 |  |
 | ------- |
