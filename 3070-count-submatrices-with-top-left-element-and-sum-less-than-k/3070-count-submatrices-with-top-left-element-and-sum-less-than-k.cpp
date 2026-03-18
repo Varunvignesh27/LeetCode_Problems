@@ -1,0 +1,34 @@
+class Solution {
+public:
+
+    vector<vector<int>> ps;
+
+    void prefixsum(int n,int m,vector<vector<int>> &nums){
+        
+        ps.resize(n+1,vector<int> (m+1,0));
+
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=m;j++){
+                ps[i][j] = ps[i-1][j] + ps[i][j-1] - ps[i-1][j-1] + nums[i-1][j-1];
+            }
+        }
+    }
+
+    int countSubmatrices(vector<vector<int>>& grid, int k) {
+        
+        int n = grid.size();
+        int m = grid[0].size();
+        int ans = 0;
+
+        prefixsum(n,m,grid);
+
+        for(int i=1;i <= n;i++){
+            for(int j=1;j <= m;j++){
+                if(ps[i][j] <= k)
+                    ans++;
+            }
+        }
+
+        return ans;
+    }
+};
