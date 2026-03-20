@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3379-transformed-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3379-transformed-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Matrix
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Bit Manipulation
 |  |
 | ------- |
