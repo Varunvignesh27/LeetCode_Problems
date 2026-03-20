@@ -3,7 +3,7 @@ public:
 
     int findMin(vector<vector<int>> grid,int i,int j,int k){
 
-        int min = INT_MAX;
+        int m = INT_MAX;
         unordered_set<int> s;
         vector<int> v;
 
@@ -18,16 +18,15 @@ public:
         }
 
         int n = v.size();
+        sort(v.begin(),v.end());
 
         for(int l=0;l<n-1;l++){
-            for(int r=l+1;r<n;r++){
-                if(min > abs(v[l] - v[r])){
-                    min =  abs(v[l] - v[r]);
-                }
+            if(m > abs(v[l] - v[l+1])){
+                m =  abs(v[l] - v[l+1]);
             }
         }
 
-        return min;
+        return m;
 
     }
 
