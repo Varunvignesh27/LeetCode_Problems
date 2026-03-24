@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
