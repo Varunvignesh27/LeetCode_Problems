@@ -4,26 +4,23 @@ public:
         int n = mat.size();
         int m = mat[0].size();
         k = k%m;
-        vector<vector<int>> nums = mat;
+            
+        for(int i = 0;i<n;i++){
+            for(int j=0;j<m;j++){
 
-        while(k--){            
-            for(int i = 0;i<n;i++){
                 if(i%2 == 0){
-                    for(int j=0;j<m-1;j++){
-                        swap(nums[i][j],nums[i][j+1]);
-                    }
+                    if(mat[i][j] != mat[i][(j+k) % m])
+                        return false;
+
                 }else{
-                    for(int j = m-1;j > 0;j--){
-                        swap(nums[i][j],nums[i][j-1]);
-                    }
+                    if(mat[i][j] != mat[i][(j-k+m) % m])
+                        return false;
+                        
                 }
+
             }
         }
 
-
-        if(mat == nums)
-            return true;
-
-        return false;
+        return true;
     }
 };
