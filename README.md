@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2906-construct-product-matrix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3379-transformed-array) |
 ## Hash Table
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Database
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2906-construct-product-matrix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
