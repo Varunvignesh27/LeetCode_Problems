@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0162-find-peak-element](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
