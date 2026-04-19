@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
+| [0419-battleships-in-a-board](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0419-battleships-in-a-board](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
