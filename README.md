@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
