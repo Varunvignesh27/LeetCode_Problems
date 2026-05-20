@@ -8,8 +8,8 @@ public:
 
         visited[v] = true;
 
-        if(v != sigma)
-            res[v].push_back(sigma);
+        if(sigma != v)
+        res[sigma].push_back(v);
 
         for(int i : adj[v])
             if(!visited[i])
@@ -22,13 +22,16 @@ public:
         res.resize(n);
 
         for(auto v : edges){
-            adj[v[0]].push_back(v[1]);
+            adj[v[1]].push_back(v[0]);
         }
 
         for(int i=0;i<n;i++){
             visited.assign(n,false);
             dfs(i,i);
         }
+        
+        for(int i=0;i<n;i++)
+            sort(res[i].begin(),res[i].end());
 
         return res;
     }
