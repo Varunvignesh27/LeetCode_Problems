@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -264,9 +266,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
+| [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
