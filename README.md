@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Database
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2540-minimum-common-value](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2540-minimum-common-value) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Linked List
 |  |
 | ------- |
