@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
+| [3931-check-adjacent-digit-differences](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
 | ------- |
