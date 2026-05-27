@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
 ## Simulation
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
