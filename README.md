@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0066-plus-one) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
