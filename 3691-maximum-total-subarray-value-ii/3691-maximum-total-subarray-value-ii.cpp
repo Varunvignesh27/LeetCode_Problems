@@ -9,14 +9,14 @@ public:
     const int K = 25;
 
     void build(vector<int>& nums,int n){
-        st.resize(K+1,vector<pair<ll,ll>>(n+1));
+        st.resize(K,vector<pair<ll,ll>>(n));
 
         for(int i=0;i<n;i++){
             st[0][i] = {nums[i],nums[i]};
         }
 
-        for(int i=1;i<=K;i++){
-            for(int j=0;j + (1 << i-1) <= n;j++){
+        for(int i=1;i<K;i++){
+            for(int j=0;j + (1 << i-1) < n;j++){
                 st[i][j] = merge(st[i-1][j],st[i-1][j + (1 << i-1)]);
             }
         }
@@ -28,7 +28,7 @@ public:
 
     pair<ll,ll> rangeQuery(int l,int r){
         pair<ll,ll> res = {-1e18,1e18};
-        for(int i = K;i >= 0;i--){
+        for(int i = K-1;i >= 0;i--){
             if(r-l+1 >= (1 << i)){
                 res = merge(res,st[i][l]);
                 l += (1 << i);
