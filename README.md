@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3931-check-adjacent-digit-differences](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3931-check-adjacent-digit-differences) |
 ## Simulation
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3379-transformed-array) |
+| [3838-weighted-word-mapping](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
