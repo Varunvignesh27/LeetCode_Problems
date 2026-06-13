@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3379-transformed-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
 | [0907-sum-of-subarray-minimums](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [1009-complement-of-base-10-integer](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1009-complement-of-base-10-integer) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -259,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
