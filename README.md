@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0907-sum-of-subarray-minimums](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0100-same-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Enumeration
