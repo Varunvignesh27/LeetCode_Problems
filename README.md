@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
 | [0907-sum-of-subarray-minimums](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [1002-find-common-characters](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1002-find-common-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
