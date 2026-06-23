@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -401,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
