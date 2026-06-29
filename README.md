@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
 | [1833-maximum-ice-cream-bars](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3612-process-string-with-special-operations-i) |
