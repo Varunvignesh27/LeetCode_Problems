@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
