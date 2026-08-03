@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0307-range-sum-query-mutable) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1002-find-common-characters](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1002-find-common-characters) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0015-3sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2540-minimum-common-value](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
