@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2906-construct-product-matrix) |
 | [2942-find-words-containing-character](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2942-find-words-containing-character) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |
