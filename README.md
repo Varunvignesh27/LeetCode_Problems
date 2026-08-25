@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
