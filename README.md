@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0997-find-the-town-judge](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0886-possible-bipartition) |
+| [0997-find-the-town-judge](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
