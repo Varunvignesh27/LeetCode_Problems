@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0419-battleships-in-a-board](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
 | [0695-max-area-of-island](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Recursion
 |  |
@@ -495,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
