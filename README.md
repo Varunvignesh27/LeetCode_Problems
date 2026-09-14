@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -490,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0022-generate-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
