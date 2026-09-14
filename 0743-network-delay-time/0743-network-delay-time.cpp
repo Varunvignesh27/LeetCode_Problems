@@ -18,7 +18,7 @@ public:
 			int u = p.second;
 			q.pop();
 
-			if(du < dis[u])
+			if(du > dis[u])
 				continue;
 
 			for(auto v : adj[u]){
