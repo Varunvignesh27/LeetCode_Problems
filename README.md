@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1476-subrectangle-queries](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1476-subrectangle-queries) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Stack
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2540-minimum-common-value) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0413-arithmetic-slices) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2540-minimum-common-value](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Varunvignesh27/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
